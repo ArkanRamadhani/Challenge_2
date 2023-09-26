@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="challenge_2terbaru:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/challenge_2terbaru_jar</output-path>
+    <root id="archive" name="challenge_2terbaru.jar">
+      <element id="module-output" name="challenge_2terbaru" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/java/org/example/Pemesanan_Makanan.java" />
+    </root>
+  </artifact>
+</component>
